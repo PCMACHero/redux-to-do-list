@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Redux To Do List
 
-In the project directory, you can run:
+>To Do List built with React and Redux.
 
 ### `npm start`
 
